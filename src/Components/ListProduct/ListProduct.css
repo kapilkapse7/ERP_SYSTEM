@@ -73,3 +73,45 @@
 
 
 
+
+@media screen and (max-width: 800px) {
+    .list-product {
+        box-sizing: border-box;
+        width: 95%;
+        height: 100%;
+        padding: 10px 30px;
+        margin: 20px auto;
+    }
+
+    .listproduct-format-main {
+        padding: 15px 0px;
+        color: #454545;
+        font-size: 12px;
+    }
+
+    .listproduct-product-icon {
+        height: 60px;
+        width: 60px;
+    }
+
+    .listproduct-remove-icon{
+        max-width: 40px;
+    }
+
+    .btn {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+
+    .text {
+        min-width: auto;
+    }
+
+    .listproduct-allproduct {
+        max-height: 60vh; /* Adjust maximum height to fit smaller screens */
+    }
+
+    .listproduct-remove-icon{
+
+    }
+}

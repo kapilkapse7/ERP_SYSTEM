@@ -5,8 +5,15 @@ import add_product_icon from "../../Assets/Product_Cart.svg"
 import list_product_icon from "../../Assets/Product_list_icon.svg"
 
 const Sidebar = () => {
-  return (
+
+    // Add this JavaScript code to toggle sidebar items on smaller screens
+
+
+
+  return (<>
     <div className='sidebar'>
+    
+
     <Link to={'/'} style={{textDecoration:"none"}}>
         <div className='sidebar-item'>
             <img src={list_product_icon} />
@@ -30,6 +37,8 @@ const Sidebar = () => {
     </Link>
 
     </div>
+
+    </>
   )
 }
 

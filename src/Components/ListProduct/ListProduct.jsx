@@ -49,7 +49,9 @@ const Listproduct = () => {
         })}
         <button onClick={()=>{setShowAddProductForm(true)}} className='btn'>Add New Prodcut</button>
       </div>
+      <div>
       {showAddProductForm && <Addproduct />}
+      </div>
     </div>
 
   )

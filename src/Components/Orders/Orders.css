@@ -76,6 +76,23 @@
     transform: translateY(-50%);
   }
   
+
+  @media screen and (max-width: 768px) {
+    .list-order {
+        padding: 10px;
+        margin: 20px auto;
+        height: auto;
+    }
+
+    .order-format-main {
+        gap: 10px; 
+        font-size: 13px; 
+    }
+
+    .order-format {
+        gap: 10px; 
+    }
+}
  
 
 

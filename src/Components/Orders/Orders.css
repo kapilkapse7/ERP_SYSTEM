@@ -1,0 +1,84 @@
+
+
+
+
+ .list-order {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+    height: 740px;
+    margin: 30px;
+    border-radius: 6px;
+    background: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.list-order h1 {
+    margin-bottom: 20px; 
+    color: #333; 
+}
+
+.order-format-main {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 120px;
+    width: 100%;
+    padding: 20px 0px;
+    color: #454545;
+    font-size: 15px;
+    font-weight: 600;
+    border-bottom: 1px solid #ccc; 
+}
+
+.order-format-main p {
+    text-align: center; 
+}
+
+.order-format {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+    font-weight: 500;
+    gap: 220px;
+    border-bottom: 1px solid #ccc;
+ 
+}
+    
+
+.order-all-orders{
+    overflow-x: auto;   
+    
+} 
+
+  .select-wrapper {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .select-wrapper select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-color: transparent;
+    border: none;
+    padding: 5px 30px 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .select-wrapper::after {
+    content: '▼';
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+  }
+  
+ 
+
+
+
+
+  

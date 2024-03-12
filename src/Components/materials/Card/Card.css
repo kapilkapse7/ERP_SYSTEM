@@ -1,0 +1,10 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 8px 15px;
+    border-radius: 5px;
+    background-color: #2962ff;
+    width: 300px; /* Adjust this value to your desired width */
+    height: 200px; /* Set the height equal to the width */
+}

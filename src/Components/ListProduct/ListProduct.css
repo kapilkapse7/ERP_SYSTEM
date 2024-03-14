@@ -30,9 +30,9 @@
 
 
 .listproduct-product-icon {
-    width: 100px; /* Set a fixed width */
-    height: 100px; /* Set a fixed height */
-    object-fit: contain; /* Maintain aspect ratio */
+    width: 100px; 
+    height: 100px; 
+    object-fit: contain; 
 }
 
 
@@ -108,10 +108,8 @@
     }
 
     .listproduct-allproduct {
-        max-height: 60vh; /* Adjust maximum height to fit smaller screens */
+        max-height: 60vh; 
     }
 
-    .listproduct-remove-icon{
-
-    }
+    
 }

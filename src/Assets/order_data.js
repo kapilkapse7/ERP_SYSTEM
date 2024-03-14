@@ -5,7 +5,7 @@ const orders = [
       order_id: 1,
       customername: "John Doe",
       order_date: "2024-03-12",
-      status: "Processing"
+      status: "Packed"
     },
     {
       order_id: 2,
@@ -24,7 +24,7 @@ const orders = [
       order_id: 4,
       customername: "Michael Brown",
       order_date: "2024-03-05",
-      status: "Processing"
+      status: "Packed"
     },
     {
       order_id: 5,
@@ -42,7 +42,7 @@ const orders = [
       order_id: 7,
       customername: "Sophia Taylor",
       order_date: "2024-02-25",
-      status: "Processing"
+      status: "Packed"
     },
     {
       order_id: 8,
@@ -60,7 +60,7 @@ const orders = [
       order_id: 10,
       customername: "Daniel Hernandez",
       order_date: "2024-02-18",
-      status: "Processing"
+      status: "Packed"
     },
    
   ];

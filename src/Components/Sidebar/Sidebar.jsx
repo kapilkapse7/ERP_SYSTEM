@@ -6,9 +6,6 @@ import list_product_icon from "../../Assets/Product_list_icon.svg"
 
 const Sidebar = () => {
 
-    // Add this JavaScript code to toggle sidebar items on smaller screens
-
-
 
   return (<>
     <div className='sidebar'>

@@ -6,7 +6,7 @@ import "./Orders.css";
 const Orders = () => {
   const getStatusColor = (status) => {
     switch (status) {
-      case "Processing":
+      case "Packed":
         return "rgb(251, 251, 48)";
       case "Shipped":
         return "orange";
@@ -52,7 +52,7 @@ const Orders = () => {
               <select value={orderStatuses[index]} className='custom-select' onChange={(event) => handleChangeStatus(index, event)}>
                 <option value="Shipped">Shipped</option>
                 <option value="Delivered">Delivered</option>
-                <option value="Processing">Processing</option>
+                <option value="Packed">Packed</option>
               </select>
             </div>
           </div>

@@ -1,10 +1,13 @@
 .card {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    padding: 8px 15px;
-    border-radius: 5px;
-    background-color: #2962ff;
-    width: 300px; /* Adjust this value to your desired width */
-    height: 200px; /* Set the height equal to the width */
+    border: 1px solid #ccc; 
+    border-radius: 6px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    padding: 20px; 
+}
+
+
+@media screen and (max-width: 786px) {
+    .card{
+        justify-content: center;
+    }
 }

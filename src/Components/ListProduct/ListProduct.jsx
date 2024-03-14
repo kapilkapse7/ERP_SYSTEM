@@ -1,8 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react'
 import "./ListProduct.css"
 import cross_icon from "../../Assets/cross_icon.png"
-
-// import allproduct from "../../Assets/all_product.js"
 import Addproduct from '../AddProduct/AddProduct.jsx'
 
 
@@ -59,9 +57,3 @@ const Listproduct = () => {
 
 export default Listproduct
 
-
-{/* <select value={productDetails.category} onChange={changeHandler} name='category' className='addproduct-selector'>
-                    <option value="Charchaters">Charchaters</option>
-                    <option value="Anime">Anime</option>
-                    <option value="Idols">Idols</option>
-                </select> */}

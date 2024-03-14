@@ -8,14 +8,13 @@
     max-width: 250px;
     height: 100vh;
     background: white;
-    flex-wrap: nowrap; /* Prevent items from wrapping */
-    overflow-x: auto; /* Add horizontal scrolling if needed */
+    flex-wrap: nowrap; 
+    overflow-x: auto; 
 }
 
 .sidebar-item {
     display: flex;
-    /* align-items: center; */
-    /* justify-content: center; */
+    
     margin: 0px 20px;
     padding: 5px 10px;
     border-radius: 6px;

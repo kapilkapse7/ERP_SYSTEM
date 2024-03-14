@@ -1,6 +1,4 @@
 import React, { createContext, useEffect, useState } from "react";
-// import all_product from "../Components/Assets/all_product"
-
 import all_products from "../Assets/data"
 
 
@@ -12,19 +10,13 @@ export const ShopContextProvider = (props)=>{
     const[product_total, setProduct_total] = useState(0);
 
    
-      
-
-
     const contextValue = {all_product,setAll_Product, setShowAddProductForm, showAddProductForm, product_total,setProduct_total}
-
-
 
     return (
         <ShopContext.Provider value={contextValue}>
         {props.children}
         </ShopContext.Provider>
     )
-
 
 }
 

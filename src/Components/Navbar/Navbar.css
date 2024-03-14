@@ -16,3 +16,18 @@
 .nav-profile{
     width: 75px;
 }
+
+
+@media screen and (max-width: 600px) {
+    .navbar {
+        padding: 15px; 
+    }
+
+    .nav-logo {
+        width: 120px; 
+    }
+
+    .nav-profile {
+        width: 40px; 
+    }
+}

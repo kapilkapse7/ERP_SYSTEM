@@ -1,16 +1,16 @@
 import React from 'react'
 import 
-{ BsFillArchiveFill, BsFillGrid3X3GapFill, BsPeopleFill, BsFillBellFill}
+{ BsFillArchiveFill}
  from 'react-icons/bs'
 import "./Card.css"
-const Card = ({product_total}) => {
+const Card = ({product_total,text,c}) => {
   return (
     <div className='card'>
-    <div className='card-inner'>
-        <h3>TOTAL PRODUCTS IN INVENTORY</h3>
+    <div  className='card-inner'>
+        <p  >{text}</p>
         <BsFillArchiveFill className='card_icon'/>
     </div>
-    <h1>{product_total}</h1>
+    <h1 style={{color: c}}>{product_total}</h1>
 </div>
   )
 }

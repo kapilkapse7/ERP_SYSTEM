@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ERP_SYSTEM/static/css/main.54e0e167.css",
-    "main.js": "/ERP_SYSTEM/static/js/main.cdda7268.js",
+    "main.js": "/ERP_SYSTEM/static/js/main.f296632f.js",
     "static/media/nav-profile.svg": "/ERP_SYSTEM/static/media/nav-profile.273519004d5077e722f5c762f1881217.svg",
     "static/media/nav-logo.svg": "/ERP_SYSTEM/static/media/nav-logo.9eda6e580783b63533aea996eca579e9.svg",
     "static/media/product_1.webp": "/ERP_SYSTEM/static/media/product_1.9fef89cf5983b71f66f2.webp",
@@ -13,10 +13,10 @@
     "static/media/Product_list_icon.svg": "/ERP_SYSTEM/static/media/Product_list_icon.62bf22cc467a30071cec5aae19f1b425.svg",
     "index.html": "/ERP_SYSTEM/index.html",
     "main.54e0e167.css.map": "/ERP_SYSTEM/static/css/main.54e0e167.css.map",
-    "main.cdda7268.js.map": "/ERP_SYSTEM/static/js/main.cdda7268.js.map"
+    "main.f296632f.js.map": "/ERP_SYSTEM/static/js/main.f296632f.js.map"
   },
   "entrypoints": [
     "static/css/main.54e0e167.css",
-    "static/js/main.cdda7268.js"
+    "static/js/main.f296632f.js"
   ]
 }

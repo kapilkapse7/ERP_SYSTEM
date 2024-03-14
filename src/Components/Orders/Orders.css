@@ -114,6 +114,23 @@
     .order-all-orders{
         margin-right: 10px;
     }
+
+    .container {
+        flex-direction: column; 
+      }
+    
+      
+      .header {
+        font-size: 20px; 
+      }
+    
+
+    
+      
+      .main-image {
+        max-width: 60%; 
+        height: auto; 
+      }
 }
  
 

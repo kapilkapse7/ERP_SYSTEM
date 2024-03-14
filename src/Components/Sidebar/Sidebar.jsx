@@ -11,7 +11,7 @@ const Sidebar = () => {
     <div className='sidebar'>
     
 
-    <Link to={'//ERP_SYSTEM/'} style={{textDecoration:"none"}}>
+    <Link to={'/ERP_SYSTEM'} style={{textDecoration:"none"}}>
         <div className='sidebar-item'>
             <img src={list_product_icon} />
             <p>DashBoard </p>

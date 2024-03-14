@@ -13,7 +13,7 @@ const Admin = () => {
     <div className='admin'>
       <Sidebar />
       <Routes>
-        <Route path='/ERP_SYSTEM/' element={<Dashboard />} />
+        <Route path='/ERP_SYSTEM' element={<Dashboard />} />
         <Route path='/products' element = {<ListProduct/>}/>
         <Route path='/orders' element = {<Orders/>}/>
 

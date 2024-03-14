@@ -31,9 +31,9 @@ useEffect(() => {
   <h3>Sales Activity</h3>
   <hr/>
   <div class="card-container">
-    <Card product_total={228} text={"Items to be Packed"} c={"red"}/>
-    <Card product_total={22} text={"Items to be Delivered"} c={"green"}/>
-    <Card product_total={28} text={"Items to be Shipped"} c={"blue"}/>
+    <Card product_total={5} text={"Items to be Packed"} c={"red"}/>
+    <Card product_total={17} text={"Items to be Delivered"} c={"green"}/>
+    <Card product_total={8} text={"Items to be Shipped"} c={"blue"}/>
   </div>
 </div>
 
@@ -41,8 +41,8 @@ useEffect(() => {
 <h3>Inventory Status</h3>
 <hr />
     <div className='inventory-charts'>
-        <Piechart percentage={(product_total / 400) * 100} colour="blue" />
-        <Card product_total={product_total} text={"Total Stock In Inventory"} c={"green"} />   
+        <Piechart percentage={(product_total / 120) * 100} colour={(((product_total / 120) * 100)>20)?"Blue":"Red"} />
+        <Card product_total={`${product_total} of 120`} text={"Total Stock In Inventory"} c={(((product_total / 120)) * 100>20)?"Blue":"Red"} />   
     </div>
     </div>
   </div>)

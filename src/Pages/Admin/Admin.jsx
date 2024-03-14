@@ -5,6 +5,7 @@ import { Routes, Route  } from 'react-router-dom'
 import ListProduct from '../../Components/ListProduct/ListProduct'
 import Dashboard from '../../Components/Dashboard/Dashboard'
 import Orders from '../../Components/Orders/Orders'
+import MyCalendar from '../../Components/Calender/Calendar'
 
 
 
@@ -16,6 +17,7 @@ const Admin = () => {
         <Route path='/ERP_SYSTEM' element={<Dashboard />} />
         <Route path='/products' element = {<ListProduct/>}/>
         <Route path='/orders' element = {<Orders/>}/>
+        <Route path='/Calendar' element={<MyCalendar/>} />
 
       </Routes>
     </div>

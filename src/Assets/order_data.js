@@ -3,33 +3,33 @@
 const orders = [
     {
       order_id: 1,
-      customername: "John Doe",
-      order_date: "2024-03-12",
+      customername: "Vivek sharma",
+      order_date: "2024-03-19",
       status: "Packed"
     },
     {
       order_id: 2,
-      customername: "Jane Smith",
-      order_date: "2024-03-10",
+      customername: "Steven Smith",
+      order_date: "2024-03-20",
       status: "Shipped"
     },
     {
       order_id: 3,
-      customername: "Alice Johnson",
-      order_date: "2024-03-08",
+      customername: "MS Dhoni",
+      order_date: "2024-03-22",
       status: "Delivered"
     },
    
     {
       order_id: 4,
-      customername: "Michael Brown",
-      order_date: "2024-03-05",
+      customername: "Shubham gupta",
+      order_date: "2024-03-19",
       status: "Packed"
     },
     {
       order_id: 5,
       customername: "Emily Wilson",
-      order_date: "2024-03-03",
+      order_date: "2024-03-28",
       status: "Shipped"
     },
     {
@@ -44,24 +44,7 @@ const orders = [
       order_date: "2024-02-25",
       status: "Packed"
     },
-    {
-      order_id: 8,
-      customername: "Matthew Anderson",
-      order_date: "2024-02-22",
-      status: "Shipped"
-    },
-    {
-      order_id: 9,
-      customername: "Olivia Martinez",
-      order_date: "2024-02-20",
-      status: "Delivered"
-    },
-    {
-      order_id: 10,
-      customername: "Daniel Hernandez",
-      order_date: "2024-02-18",
-      status: "Packed"
-    },
+   
    
   ];
   

@@ -48,8 +48,8 @@ The project is hosted on GitHub. You can find it [here](https://kapilkapse7.gith
 
 ## Submission
 
-The project is hosted on GitHub. You can find it [here](link-to-your-repository).
+The project is hosted on GitHub. You can find it [here](https://github.com/kapilkapse7/ERP_SYSTEM).
 
-The live version of the website is available [here](link-to-your-gh-pages).
+The live version of the website is available [here](https://kapilkapse7.github.io/ERP_SYSTEM).
 
 

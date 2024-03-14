@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ERP_SYSTEM/static/css/main.1e02b0af.css",
-    "main.js": "/ERP_SYSTEM/static/js/main.ebd33a77.js",
+    "main.css": "/ERP_SYSTEM/static/css/main.54e0e167.css",
+    "main.js": "/ERP_SYSTEM/static/js/main.ff1bc484.js",
     "static/media/nav-profile.svg": "/ERP_SYSTEM/static/media/nav-profile.273519004d5077e722f5c762f1881217.svg",
     "static/media/nav-logo.svg": "/ERP_SYSTEM/static/media/nav-logo.9eda6e580783b63533aea996eca579e9.svg",
     "static/media/product_1.webp": "/ERP_SYSTEM/static/media/product_1.9fef89cf5983b71f66f2.webp",
@@ -12,11 +12,11 @@
     "static/media/Product_Cart.svg": "/ERP_SYSTEM/static/media/Product_Cart.11a11e6ce241451b596c239a6f9164d7.svg",
     "static/media/Product_list_icon.svg": "/ERP_SYSTEM/static/media/Product_list_icon.62bf22cc467a30071cec5aae19f1b425.svg",
     "index.html": "/ERP_SYSTEM/index.html",
-    "main.1e02b0af.css.map": "/ERP_SYSTEM/static/css/main.1e02b0af.css.map",
-    "main.ebd33a77.js.map": "/ERP_SYSTEM/static/js/main.ebd33a77.js.map"
+    "main.54e0e167.css.map": "/ERP_SYSTEM/static/css/main.54e0e167.css.map",
+    "main.ff1bc484.js.map": "/ERP_SYSTEM/static/js/main.ff1bc484.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e02b0af.css",
-    "static/js/main.ebd33a77.js"
+    "static/css/main.54e0e167.css",
+    "static/js/main.ff1bc484.js"
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ERP_SYSTEM/static/css/main.1e02b0af.css",
+    "main.js": "/ERP_SYSTEM/static/js/main.ebd33a77.js",
+    "static/media/nav-profile.svg": "/ERP_SYSTEM/static/media/nav-profile.273519004d5077e722f5c762f1881217.svg",
+    "static/media/nav-logo.svg": "/ERP_SYSTEM/static/media/nav-logo.9eda6e580783b63533aea996eca579e9.svg",
+    "static/media/product_1.webp": "/ERP_SYSTEM/static/media/product_1.9fef89cf5983b71f66f2.webp",
+    "static/media/product_3.webp": "/ERP_SYSTEM/static/media/product_3.f3382674ba572638d63d.webp",
+    "static/media/product_4.webp": "/ERP_SYSTEM/static/media/product_4.7924d7acacf3b74f24ed.webp",
+    "static/media/product_2.webp": "/ERP_SYSTEM/static/media/product_2.592d8345a6f8fcce1b07.webp",
+    "static/media/upload_area.svg": "/ERP_SYSTEM/static/media/upload_area.72a08e8171a5082ba0e908a6f65bab93.svg",
+    "static/media/Product_Cart.svg": "/ERP_SYSTEM/static/media/Product_Cart.11a11e6ce241451b596c239a6f9164d7.svg",
+    "static/media/Product_list_icon.svg": "/ERP_SYSTEM/static/media/Product_list_icon.62bf22cc467a30071cec5aae19f1b425.svg",
+    "index.html": "/ERP_SYSTEM/index.html",
+    "main.1e02b0af.css.map": "/ERP_SYSTEM/static/css/main.1e02b0af.css.map",
+    "main.ebd33a77.js.map": "/ERP_SYSTEM/static/js/main.ebd33a77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e02b0af.css",
+    "static/js/main.ebd33a77.js"
+  ]
+}

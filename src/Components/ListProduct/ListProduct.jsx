@@ -29,6 +29,9 @@ const Listproduct = () => {
         <p>Category</p>
         <p>Remove</p>
       </div>
+      <div>
+      {showAddProductForm && <Addproduct />}
+      </div>
 
       <div className='listproduct-allproduct'>
         <hr></hr>
@@ -47,9 +50,7 @@ const Listproduct = () => {
         })}
         <button onClick={()=>{setShowAddProductForm(true)}} className='btn'>Add New Prodcut</button>
       </div>
-      <div>
-      {showAddProductForm && <Addproduct />}
-      </div>
+      
     </div>
 
   )

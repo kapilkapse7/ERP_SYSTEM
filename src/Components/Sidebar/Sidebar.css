@@ -37,8 +37,11 @@
     .sidebar-item{
         margin: 0px;
     }
-    .sidebar-item img,
+    .sidebar-item img{
+        max-width:  30px;
+    }
     .sidebar-item p{
         max-width: 40px;
+        
     }
 }

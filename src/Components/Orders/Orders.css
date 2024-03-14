@@ -89,6 +89,9 @@
     .order-format {
         gap: 10px; 
     }
+    .order-all-orders{
+        margin-right: 10px;
+    }
 }
  
 

@@ -38,16 +38,16 @@ This project is a ERP (Enterprise Resource Planning) system interface built usin
 
 ## Screenshots
 
-![Dashboard](./src/Assets/Site/dashboard.png)
+![Dashboard](./src/Assets/Site/Dashboard.png)
 *Dashboard*
 
-![Products Management](./src/Assets/Site/product.png)
+![Products Management](./src/Assets/Site/Product.png)
 *Products Management*
 
-![Orders Management](./src/Assets/Site/Order.png)
+![Orders Management](./src/Assets/Site/order.png)
 *Orders Management*
 
-![Calendar Feature](./src/Assets/Site/calendar.png)
+![Calendar Feature](./src/Assets/Site/Calendar.png)
 *Orders Management*
 
 ## Submission

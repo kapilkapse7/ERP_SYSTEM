@@ -38,7 +38,7 @@
     grid-template-columns: repeat(4, 1fr);
     align-items: center;
     font-weight: 500;
-    gap: 220px;
+    gap: 290px;
     border-bottom: 1px solid #ccc;
  
 }
@@ -72,8 +72,6 @@
     right: 10px;
     transform: translateY(-50%);
   }
-  
-
   .cal {
     margin-top: 20px; 
     display: flex;
@@ -95,6 +93,8 @@
     background-color: #0056b3;
   }
   
+
+ 
 
   @media screen and (max-width: 768px) {
     .list-order {
